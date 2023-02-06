@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-javascript-tag",
+  "version": "1.0.0",
+  "description": "Generate a tag by modifying the response with Javascript.",
+  "main": "app.js",
+  "insomnia": {
+    "name": "javascript-tag",                                                      
+    "displayName": "Javascript Tag",                                        
+    "description": "Generate a tag by modifying the response with Javascript.",
+    "unlisted": true
+  }, 
+  "author": "david.alex.reis.97@gmail.com",
+  "license": "GNU AGPLv3"
+}
