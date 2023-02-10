@@ -1,7 +1,8 @@
 {
   "name": "insomnia-plugin-javascript-tag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a tag by modifying the response with Javascript.",
+  "private": false,
   "main": "app.js",
   "repository": {
     "type": "git",
@@ -9,10 +10,21 @@
   },
   "insomnia": {
     "name": "javascript-tag",                                                      
-    "displayName": "Javascript Tag",                                        
+    "displayName": "Javascript Tag",
+    "publisher": {
+      "name": "David Reis"
+    },
     "description": "Generate a tag by modifying the response with Javascript.",
     "unlisted": false
   }, 
-  "author": "david.alex.reis.97@gmail.com",
+  "author": {
+    "name": "David Reis",
+    "email": "david.alex.reis.97@gmail.com",
+    "url": "https://davidreis.me"
+  },
+  "bugs": {
+    "url": "https://github.com/davidreis97/insomnia-plugin-javascript-tag/issues"
+  },
+  "homepage": "https://github.com/davidreis97/insomnia-plugin-javascript-tag",
   "license": "GNU AGPLv3"
 }
