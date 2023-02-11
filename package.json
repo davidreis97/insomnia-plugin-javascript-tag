@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-javascript-tag",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate a tag by modifying the response with Javascript.",
   "private": false,
   "main": "app.js",

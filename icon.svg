@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="JetBrains Mono">@import url(https://fonts.googleapis.com/css2?family=JetBrains+Mono%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800&amp;display=swap);</style>
+  </defs>
+  <rect width="48" height="48" fill="#f7df1e"/>
+  <path d="M 33.36 37.417 C 34.217 38.814 35.33 39.841 37.298 39.841 C 38.953 39.841 40.01 39.015 40.01 37.872 C 40.01 36.503 38.924 36.019 37.104 35.222 L 36.105 34.794 C 33.224 33.566 31.31 32.029 31.31 28.778 C 31.31 25.783 33.591 23.504 37.157 23.504 C 39.695 23.504 41.521 24.387 42.835 26.7 L 39.727 28.697 C 39.043 27.469 38.303 26.986 37.157 26.986 C 35.988 26.986 35.247 27.728 35.247 28.697 C 35.247 29.895 35.989 30.379 37.701 31.121 L 38.7 31.548 C 42.092 33.003 44.007 34.487 44.007 37.82 C 44.007 41.416 41.183 43.384 37.391 43.384 C 33.683 43.384 31.288 41.617 30.116 39.302 L 33.36 37.417 Z M 19.256 37.763 C 19.884 38.876 20.455 39.817 21.827 39.817 C 23.139 39.817 23.966 39.303 23.966 37.308 L 23.966 23.732 L 27.957 23.732 L 27.957 37.361 C 27.957 41.495 25.534 43.377 21.996 43.377 C 18.8 43.377 16.948 41.722 16.007 39.73 L 19.256 37.763 Z"/>
+  <rect x="20.117" y="2.953" width="25.346" height="10.706" style="paint-order: fill; stroke: rgb(235, 99, 15); stroke-linejoin: round; fill: rgb(235, 99, 15);"/>
+  <path d="M 12.287 2.695 L 16.93 7.661 L 7.644 7.661 L 12.287 2.695 Z" style="stroke: rgb(235, 99, 15); fill: rgb(235, 99, 15);" transform="matrix(0, -1, 1, 0, 11.714307, 20.625666)" bx:shape="triangle 7.644 2.695 9.286 4.966 0.5 0 1@0e9c5d3c"/>
+  <ellipse style="fill: rgb(247, 223, 30); stroke-width: 0.2px; stroke: rgba(0, 0, 0, 0.57);" cx="17.86" cy="8.242" rx="1" ry="1"/>
+  <text style="font-family: &quot;JetBrains Mono&quot;; font-size: 8px; font-weight: 700; white-space: pre;" x="25.276" y="11.08">Tag</text>
+</svg>
