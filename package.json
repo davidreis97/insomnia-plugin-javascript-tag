@@ -15,6 +15,9 @@
       "name": "David Reis"
     },
     "description": "Generate a tag by modifying the response with Javascript.",
+    "images": {
+      "icon": "icon.svg"
+    },
     "unlisted": false
   }, 
   "author": {
